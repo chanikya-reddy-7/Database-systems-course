@@ -1,0 +1,5 @@
+"expense_id","franchise_id","type","amount","date","additional_notes"
+"10001","101","employee_payment","1250.62","2024-03-31","Monthly Payment for Ron Weasely"
+"10002","102","rental_payment","1699.99","2024-04-02",NULL
+"10003","103","grocery_charge","250.65","2024-02-01",NULL
+"10004","104","maintenance","650.63","2024-04-09","AC Maintenance charges."

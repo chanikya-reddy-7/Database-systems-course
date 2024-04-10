@@ -1,0 +1,5 @@
+"franchise_id","owner_id","address_line","zip_code","state","opening_date","closing_date"
+"101","100001","123 Petunia Drive","60563","IL","2021-04-07",NULL
+"102","100003","456 Malfoy Manor","60000","IL","2023-08-17",NULL
+"103","100004","678 Ravelclaw Common Hall","60542","IL","2023-07-07","2024-03-04"
+"104","100005","Ottery St Catchpool","60504","IL","2024-04-01",NULL

@@ -1,0 +1,4 @@
+"order_id","franchise_id","customer_id","pizza_type","order_value","order_type","order_received_time","order_completion_time"
+"1000001","101","12345","Pepperoni Pizza","5.5","Dine-in","2024-04-10 17:35:00","2024-04-10 17:41:52"
+"1000002","102","12346","Pineapple Pizza","7.52","Online","2024-04-09 12:24:53","2024-04-09 12:30:08"
+"1000003","103","23456","Chicken Pizza","6.23","Takeaway","2024-04-10 14:48:24","2024-04-10 14:52:23"

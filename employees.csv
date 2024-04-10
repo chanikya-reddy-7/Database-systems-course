@@ -1,0 +1,6 @@
+"employee_id","franchise_id","first_name","last_name","date_of_birth","contact_number","hourly_payment_rate"
+"100001","101","Harry","Potter","2004-04-02","6302345345","15.5"
+"100002","101","Ron","Weasely","2004-01-03","3314567890","30"
+"100003","102","Draco","Malfoy","2003-11-30","2873540912","20"
+"100004","103","Luna","Lovegood","2004-01-24","1234569879","10.56"
+"100005","104","Cedric","Diggory","2000-03-15","8712348765","35.43"
